@@ -1,0 +1,24 @@
+{
+  "public_html/img/ciber3.png": {
+    "file": "assets/ciber3-Q2iYat9M.png",
+    "src": "public_html/img/ciber3.png"
+  },
+  "public_html/img/ciber5.png": {
+    "file": "assets/ciber5-BqNiFI7t.png",
+    "src": "public_html/img/ciber5.png"
+  },
+  "public_html/img/logo/bg.jpeg": {
+    "file": "assets/bg-CMFB9CTQ.jpeg",
+    "src": "public_html/img/logo/bg.jpeg"
+  },
+  "resources/js/app.js": {
+    "file": "assets/app-BYEE4D7l.js",
+    "src": "resources/js/app.js",
+    "isEntry": true
+  },
+  "resources/sass/app.scss": {
+    "file": "assets/app-wmH6Rwkn.css",
+    "src": "resources/sass/app.scss",
+    "isEntry": true
+  }
+}
